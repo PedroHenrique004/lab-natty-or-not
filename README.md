@@ -1,51 +1,38 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+Projeto de Livros de Histórias Infantis ;)
 
-## 🚀 Introdução
+📒 Descrição:
+Este projeto tem como objetivo criar livros de histórias infantis utilizando tecnologias de IA generativa. Através da combinação de texto, imagens e narrações, buscamos produzir histórias cativantes e visualmente encantadoras para crianças. Cada livro é projetado para estimular a imaginação e o amor pela leitura desde cedo.
 
-> Woooow! Look at this 👀
+🤖 Tecnologias Utilizadas
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+GPT-4 (ChatGPT): Para a criação das histórias e diálogos.
+DALL-E: Para a geração de ilustrações coloridas e atraentes.
+Canva: Para a edição e formatação dos livros.
+Audacity: Para a gravação e edição de narrações de áudio.
+Voki: Para a criação de avatares que narram as histórias em vídeos.
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+🧐 Processo de Criação:
 
-### Objetivos
+Histórias:
+Planejamento: Escolha do tema e dos personagens principais para cada história.
+Geração de Texto: Utilização do GPT-4 para escrever a narrativa, garantindo que o conteúdo seja adequado para a faixa etária.
+Revisão: Revisão manual para ajustar o texto, assegurando clareza e coesão.
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+Ilustrações:
+Briefing de Ilustração: Definição dos cenários e personagens com base na narrativa.
+Geração de Imagens: Utilização do DALL-E para criar ilustrações vibrantes e detalhadas.
+Edição: Ajustes finais nas imagens utilizando ferramentas de edição gráfica.
 
-### Template
+Livro Digital:
+Montagem: Combinação de texto e ilustrações no Canva para criar um layout atraente.
+Formatação: Ajuste de fontes, cores e espaçamentos para garantir uma leitura agradável.
+Exportação: Criação do arquivo final em formato PDF e ePub para distribuição.
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+🚀 Resultados:
+Livro Digital: Uma coleção de livros de histórias infantis com ilustrações coloridas e narrativas envolventes.
+Áudio Livro: Versões narradas das histórias, disponíveis em formatos de áudio para facilitar a escuta.
+Vídeo Narrado: Vídeos com avatares virtuais que narram as histórias, proporcionando uma experiência multimídia para as crianças.
 
-## 📒 Descrição
-Breve descrição do seu projeto
+💭 Reflexão: 
+Criar histórias infantis utilizando IA foi uma experiência enriquecedora. A possibilidade de gerar conteúdo educativo e divertido ao mesmo tempo destaca o potencial das tecnologias de IA no campo da educação e entretenimento infantil. Foi desafiador, mas extremamente gratificante ver a magia das histórias ganhar vida através da combinação de texto, imagem e som.
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
